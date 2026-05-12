@@ -34,4 +34,4 @@ Built a three-page interactive Tableau report for QuickEats, a food delivery pla
 Tableau Desktop, Calculated Fields, Action Filters, Parameters,
 Conditional Formatting, Custom Tooltips
 
-## Result: 9.8/10
+## Result: 9.5/10
