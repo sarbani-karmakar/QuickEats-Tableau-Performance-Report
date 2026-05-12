@@ -1,4 +1,4 @@
-# QuickEats Food Delivery — Tableau Performance Report
+# QuickEats Food Delivery: Tableau Performance Report
 
 ## Overview
 Built a three-page interactive Tableau report for QuickEats, a food delivery platform, analyzing operations, customer satisfaction, and cuisine performance across 45,000+ orders.
